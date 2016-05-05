@@ -14,7 +14,7 @@ Feel free to open an issue with questions or ideas: https://github.com/libraries
 
 ### London
 
-[Nexmo](https://www.nexmo.com/) have very kindly offered their office space for up to 30 people just off Old Street round about in London
+[Nexmo](https://www.nexmo.com/) have very kindly offered their office space for up to 50 people just off Old Street round about in London
 
 ### Remote
 
