@@ -20,3 +20,9 @@ Feel free to open an issue with questions or ideas: https://github.com/libraries
 
 Anyone can join in remotely, we'll get a slack room setup where everyone can hang out in and collaborate on GitHub
 
+## Code of conduct
+
+We'll be following the Hack Code of Conduct: http://hackcodeofconduct.org/ 
+
+> Our hackathon is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, previous hackathon attendance or computing experience (or lack of any of the aforementioned). We do not tolerate harassment of hackathon participants in any form. Sexual language and imagery is not appropriate at any hackathon venue, including hacks, talks, workshops, parties, social media and other online media. Hackathon participants violating these rules may be sanctioned or expelled from the hackathon at the discretion of the hackathon organisers.
+
