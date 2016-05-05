@@ -4,7 +4,7 @@ With data on 8m repositories, 7m issues/pull requests and 33m dependencies, Libr
 
 It currently has a basic API but much more advanced ones could be built to make data extraction easier to build tools on top of it.
 
-The whole project is open source and ready for contributions and improvements: https://github.com/librariesio
+Register your interest on Attending.io: https://attending.io/events/open-source-data-hackday
 
 Feel free to open an issue with questions or ideas: https://github.com/librariesio/os-data-hackday/issues
 
