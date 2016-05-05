@@ -6,6 +6,10 @@ It currently has a basic API but much more advanced ones could be built to make 
 
 The whole project is open source and ready for contributions and improvements: https://github.com/librariesio
 
+Feel free to open an issue with questions or ideas: https://github.com/librariesio/os-data-hackday/issues
+
+<hr>
+
 ## Locations
 
 ### London
@@ -15,3 +19,4 @@ The whole project is open source and ready for contributions and improvements: h
 ### Remote
 
 Anyone can join in remotely, we'll get a slack room setup where everyone can hang out in and collaborate on GitHub
+
