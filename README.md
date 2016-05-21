@@ -1,4 +1,4 @@
-# Open Source Data Hackday - Saturday 28th May  [![Slack Status](https://osdatahack-slackin.herokuapp.com/badge.svg)](https://osdatahack-slackin.herokuapp.com/)
+# Open Source Data Hackday - 10am - 7pm Saturday 28th May  [![Slack Status](https://osdatahack-slackin.herokuapp.com/badge.svg)](https://osdatahack-slackin.herokuapp.com/)
 
 With data on 8m repositories, 7m issues/pull requests and 33m dependencies, Libraries.io has a wealth of data that can be used to help open source projects by highlighting key issues or important projects that need more help.
 
